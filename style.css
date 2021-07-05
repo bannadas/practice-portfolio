@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
 }
 .orange-color{
     color: orange;
@@ -51,7 +51,7 @@ border-radius: 5px;
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position:left;
 }
 #web-dev-experience{
     border-left: 7px solid;
